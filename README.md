@@ -1,5 +1,5 @@
 # README
-分享自用 hammerspoon 脚本
+分享自用 Hammerspoon 脚本
 
 ## GameInfoMode
 **通过热键触发游戏辅助台模式，可在脚本中自定义快捷键。**
