@@ -4,17 +4,22 @@
 
 ## 使用方式
 
-**1. 安装 Hammerspoon**
-`Brew install hammerspoon`
+**安装 Hammerspoon**
+
+```
+brew install hammerspoon
+```
 
 **可以选择：**
 
-**2.1 将相应的 lua 脚本复制到 `~/.hammerspoon/int.lua` 文件中**
+**1. 将相应的 lua 脚本复制粘贴到 `~/.hammerspoon/int.lua` 文件中**
 
-**2.2 或者在 `~/.hammerspoon/int.lua` 文件中输入以下内容：**
+**2. 或者在 `~/.hammerspoon/int.lua` 文件中输入以下内容：**
 
 ```lua
 game_info_mode = require("game_info_mode")
+-- OR
+vimoom_mode = require("vimoom_mode")
 ```
 
 ## Vimoom Window Management
